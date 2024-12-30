@@ -1,5 +1,5 @@
 title: Michael Fan
 #logo: /assets/img/headshot_circle.png
-#description: Michael Fan
-show_downloads: true
+# description: Welcome to Michael Fan's website
+show_downloads: false
 theme: jekyll-theme-minimal
