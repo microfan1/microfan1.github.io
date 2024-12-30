@@ -3,9 +3,13 @@ Michael Fan is an Associate Professor of Economics at the The Chinese University
 
 ### Contact
 Room 903, Esther Lee Building
+
 Department of Economics
+
 The Chinese University of Hong Kong
+
 Shatin, N.T., Hong Kong
+
 Tel: (852) 3943-8001
 
 ### Hiring
@@ -17,13 +21,21 @@ My recent research interests mainly focus on econometric theory, with topics inc
 
 ### Working papers
 Cost-aware Portfolios in a Large Universe of Assets, with Marcelo C. Medeiros, Hanming Yang and Songshan Yang
+
 Homogeneity-aware Learning for Multi-sector Minimum Variance Portfolio, with Ruike Wu and Yanrong Yang
-Estimating Endogenous Ordinal Treatment Effects with High-Dimensional Instruments and Covariates, with Yang Gao, Li Li, and Wei Zhong 
+
+Estimating Endogenous Ordinal Treatment Effects with High-Dimensional Instruments and Covariates, with Yang Gao, Li Li, and Wei Zhong
+
 Inference for Nonlinear Endogenous Treatment Effects Accounting for High-Dimensional Covariate Complexity, with Zijian Guo,  Ziwei Mei, and Cun-Hui Zhang
+
 Navigating Complexity: Constrained Portfolio Analysis in High Dimensions with Tracking Error and Weight Constraints, with Mehmet Caner and Yingying Li
+
 Shocks-adaptive robust minimum variance portfolio for a large universe of assets, with Ruike Wu and Yanrong Yang
+
 Robust Inference for Multiple Predictive Regressions with an Application on Bond Risk Premia, with Xiaosai Liao and Xinjue Li
+
 A Consistent Test for Stochastic Dominance Relations under Multi-way Clustering, with Yaqian Wu and Yu-Chin Hsu
+
 Robust Bond Risk Premia Predictability Test in the Quantiles, with Xiaosai Liao and Xinjue Li
 
 
