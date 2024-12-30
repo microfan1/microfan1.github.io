@@ -15,7 +15,7 @@ Full-time or part-time research assistant/fellow (both work in Hong Kong only). 
 ### Research
 My recent research interests mainly focus on econometric theory, with topics including causal inference with machine learning, and high dimensional portfolio theory. I also have some ongoing projects relating to applied econometrics, emphasizing machine learning and big data.
 
-# Working papers
+### Working papers
 Cost-aware Portfolios in a Large Universe of Assets, with Marcelo C. Medeiros, Hanming Yang and Songshan Yang
 Homogeneity-aware Learning for Multi-sector Minimum Variance Portfolio, with Ruike Wu and Yanrong Yang
 Estimating Endogenous Ordinal Treatment Effects with High-Dimensional Instruments and Covariates, with Yang Gao, Li Li, and Wei Zhong 
@@ -27,7 +27,7 @@ A Consistent Test for Stochastic Dominance Relations under Multi-way Clustering,
 Robust Bond Risk Premia Predictability Test in the Quantiles, with Xiaosai Liao and Xinjue Li
 
 
-Publications
+### Publications
 A Heteroskedasticity-Robust Overidentifying Restriction Test with High-Dimensional Covariates, with Ziwei Mei and Zijian Guo, Journal of Business & Economic Statistics, open access article, forthcoming. Implementation codes on GitHub (In a data-rich environment, e.g., large admin data with many covariates, the traditional Sargan or J test for overidentification might not work. In these situations, the number of covariates could be even larger than the sample size. This paper proposes an overidentification test, allowing for high-dimensionality in covariates or instruments, as well as heteroskedasticity. This new test (called PM test) has good power performance, as it utilizes both the strongest violation (among all IVs) of the IV validity null hypothesis, and the many local violations where each violation might be weak.)
 
 On the instrumental variable estimation with many weak and invalid instruments, with Yiqi Lin, Frank Windmeijer and Xinyuan Song, Journal of the Royal Statistical Society: Series B (Statistical Methodology), 86 (4), 2024, 1068–1088. Implementation codes on github (In many applications of the IV method, the researchers often need to work with "non-ideal" IVs such that instruments could be weak and/or invalid. We give identification results of the linear IV model with potentially invalid instruments among many weak IVs. The sparsest rule, conceptually equivalent to the plurality rule, is operational in computations and works with the non-convex penalty function that gives IV-validity selection consistency. The proposed weak and invalid IV robust treatment effect estimator (WIT) is useful when the researchers have what is likely the "worst case scenario," that is, unknown validity among weak signals of IVs. The method's robustness is demonstrated using an example of BMI on blood pressure, where genetic markers are used as IVs.)
