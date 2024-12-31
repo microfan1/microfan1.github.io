@@ -73,6 +73,7 @@ Fan, Q., X. Han, G. Pan and B. Jiang, (2020) Large System of Seemingly Unrelated
 Bao, X. and Fan, Q., (2020), The Impact of Temperature on Gaming Productivity: Evidence from Online Games, *Empirical Economics*.
 
 ​Fan, Q. and Zhong, W., (2018), Nonparametric Additive Instrumental Variable Estimator: A Group Shrinkage Estimation Perspective, *Journal of Business & Economic Statistics*. The <a href="https://cran.r-project.org/web/packages/naivereg/index.html"> R package naivereg (CRAN version) </a> implements the method.
+
 ​
 Fan, Q. and Wang, T.*, (2018), Game Day Effect on Stock Market: Evidence from Four Major Sports Leagues in U.S., _Journal of Behavioral and Experimental Finance_.
 
