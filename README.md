@@ -19,7 +19,7 @@ Full-time or part-time research assistant/fellow (both work in Hong Kong only). 
 
 
 ## Research
-My recent research interests mainly focus on econometric theory, with topics including causal inference with machine learning, and high dimensional portfolio theory. I also have some ongoing projects relating to applied econometrics, emphasizing machine learning and big data.
+My recent research interests mainly focus on econometric theory, with topics including causal inference with machine learning, and high dimensional portfolio theory. I also have some ongoing projects relating to applied econometrics, emphasizing machine learning and big data. Data and (Stata, R) codes for some of my articles can be found in my personal website.
 
 ### Working papers
 Cost-aware Portfolios in a Large Universe of Assets, with Marcelo C. Medeiros, Hanming Yang and Songshan Yang
@@ -44,19 +44,19 @@ Robust Bond Risk Premia Predictability Test in the Quantiles, with Xiaosai Liao 
 ### Publications (* indicate graduate student at time of publication)
 A Heteroskedasticity-Robust Overidentifying Restriction Test with High-Dimensional Covariates, with Ziwei Mei* and Zijian Guo, *Journal of Business & Economic Statistics*, open access article, forthcoming. Implementation codes on <a href="https://github.com/microfan1/PMtest"> GitHub </a> 
 
-On the instrumental variable estimation with many weak and invalid instruments, with Yiqi Lin*, Frank Windmeijer and Xinyuan Song, *Journal of the Royal Statistical Society: Series B (Statistical Methodology)*, 86 (4), 2024, 1068–1088. Implementation codes on <a href="https://github.com/microfan1/WIT"> GitHub </a> 
+On the instrumental variable estimation with many weak and invalid instruments, with Yiqi Lin*, Frank Windmeijer and Xinyuan Song, _Journal of the Royal Statistical Society: Series B (Statistical Methodology)_, 86 (4), 2024, 1068–1088. Implementation codes on <a href="https://github.com/microfan1/WIT"> GitHub </a> 
 
 Fan Q., Wu, R.*, Yang, Y. and Zhong, W., (2024) "Time-varying minimum variance portfolio." *Journal of Econometrics*. An earlier version. Implementation codes on <a href="https://github.com/microfan1/TV-MVP"> GitHub </a>  
 
 Fan Q. and Wu Y.*, (2024) "Endogenous treatment effect estimation with a large and mixed set of instruments and control variables." *The Review of Economics and Statistics*, 106 (6): 1655–1674. Implementation codes on  <a href="https://github.com/microfan1/R2IVE"> GitHub </a>  
 
-Cai, X, Fan Q. and Yuan C., (2022) "The impact of only child peers on students' cognitive and non-cognitive outcomes", *Labour Economics*.  
+Cai, X, Fan Q. and Yuan C.*, (2022) "The impact of only child peers on students' cognitive and non-cognitive outcomes", *Labour Economics*.  
 
 Fan Q., Hsu, Y.-C., Lieli, R. and Y. Zhang, (2022) "Estimation of Conditional Average Treatment Effects with High-Dimensional Data" , *Journal of Business & Economic Statistics*,  new <a href="https://cran.r-project.org/web/packages/hdcate/index.html"> R package hdcate (CRAN version) </a> provides implementations with general machine learning methods.
 
-CEO Early-Life Disaster Experience and Corporate Social Performance (with Don O'Sullivan and Leon Zolotoy). *Strategic Management Journal*, 2021.
+CEO Early-Life Disaster Experience and Corporate Social Performance, with Don O'Sullivan and Leon Zolotoy, *Strategic Management Journal*, 2021.
 
-Zhong, W., Zhou, W*, Fan, Q. and Gao, Y.*, (2022) "Dummy Endogenous Treatment Effect Estimation Using High-Dimensional Instrumental Variables" (the R package naivereg implements the penalized logistic regression instrumental variables estimator (LIVE)), *The Canadian Journal of Statistics*.
+Zhong, W., Zhou, W*, Fan, Q. and Gao, Y.*, (2022) "Dummy Endogenous Treatment Effect Estimation Using High-Dimensional Instrumental Variables" (the <a href="https://cran.r-project.org/web/packages/naivereg/index.html"> R package naivereg (CRAN version) </a> implements the penalized logistic regression instrumental variables estimator (LIVE)), *The Canadian Journal of Statistics*.
 
 Chen, T., Fan Q., Liu, K. and Le, L.*, (2021) Identifying key factors in momentum in basketball games,  *Journal of Applied Statistics*.
 
@@ -66,13 +66,13 @@ Caner M., Fan Q. and T. Grennes (2021) "Partners in debt: An endogenous non-line
 
 Liu K. and Fan Q., (2021) ​"Credit expansion, bank liberalization, and structural change in bank asset accounts", *Journal of Economic Dynamics and Control*.
 
-Zhong, W., Y. Gao*, W. Zhou* and Fan, Q., (2021)  "Endogenous Treatment Effect Estimation Using High-Dimensional Instruments and Double Selection" (the R package naivereg now includes DS-IV), *Statistics and Probability Letters*.
+Zhong, W., Y. Gao*, W. Zhou* and Fan, Q., (2021)  "Endogenous Treatment Effect Estimation Using High-Dimensional Instruments and Double Selection" (the <a href="https://cran.r-project.org/web/packages/naivereg/index.html"> R package naivereg (CRAN version) </a> now includes DS-IV), *Statistics and Probability Letters*.
 
 Fan, Q., X. Han, G. Pan and B. Jiang, (2020) Large System of Seemingly Unrelated Regressions: A Penalized Quasi-Maximum Likelihood Estimation Perspective, *Econometric Theory*.
 
 Bao, X. and Fan, Q., (2020), The Impact of Temperature on Gaming Productivity: Evidence from Online Games, *Empirical Economics*.
 
-​Fan, Q. and Zhong, W., (2018), Nonparametric Additive Instrumental Variable Estimator: A Group Shrinkage Estimation Perspective, *Journal of Business & Economic Statistics*. The naivereg program in R implements the method.
+​Fan, Q. and Zhong, W., (2018), Nonparametric Additive Instrumental Variable Estimator: A Group Shrinkage Estimation Perspective, *Journal of Business & Economic Statistics*. The <a href="https://cran.r-project.org/web/packages/naivereg/index.html"> R package naivereg (CRAN version) </a> implements the method.
 ​
 Fan, Q. and Wang, T.*, (2018), Game Day Effect on Stock Market: Evidence from Four Major Sports Leagues in U.S., *Journal of Behavioral and Experimental Finance*.
 
