@@ -26,7 +26,7 @@ Single-index quantile factor model with observed characteristics, with Ruofan Xu
 
 Cost-aware Portfolios in a Large Universe of Assets, with Marcelo C. Medeiros, Hanming Yang and Songshan Yang
 
-Homogeneity-aware Learning for Multi-sector Minimum Variance Portfolio, with Ruike Wu and Yanrong Yang
+Adaptive Multi-task Learning for Multi-sector Portfolio Optimization, with Ruike Wu and Yanrong Yang
 
 Estimating Endogenous Ordinal Treatment Effects with High-Dimensional Instruments and Covariates, with Yang Gao, Li Li, and Wei Zhong
 
