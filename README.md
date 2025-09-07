@@ -21,7 +21,7 @@ Full-time or part-time research assistant/fellow (both work in Hong Kong only). 
 ## Research
 My recent research interests mainly focus on econometric theory, with topics including causal inference with machine learning, and high dimensional portfolio theory. I also have some ongoing projects relating to applied econometrics, emphasizing machine learning and big data. Data and (Stata, R) codes for some of my articles can be found in my personal website.
 
-### Working papers
+### Selected Working Papers
 Identification and Uniform Inference for Multiple Treatments with Possibly Invalid Instruments, with Ziwei Mei and Zijian Guo
 
 Single-index quantile factor model with observed characteristics, with Ruofan Xu
@@ -34,11 +34,11 @@ Estimating Endogenous Ordinal Treatment Effects with High-Dimensional Instrument
 
 Inference for Nonlinear Endogenous Treatment Effects Accounting for High-Dimensional Covariate Complexity, with Zijian Guo,  Ziwei Mei, and Cun-Hui Zhang
 
-Navigating Complexity: Constrained Portfolio Analysis in High Dimensions with Tracking Error and Weight Constraints, with Mehmet Caner and Yingying Li
+Navigating Complexity: Constrained Portfolio Analysis in High Dimensions with Tracking Error and Weight Constraints, with Mehmet Caner, Leheng Chen and Yingying Li 
 
 Shocks-adaptive robust minimum variance portfolio for a large universe of assets, with Ruike Wu and Yanrong Yang
 
-Robust Inference for Multiple Predictive Regressions with an Application on Bond Risk Premia, with Xiaosai Liao and Xinjue Li
+Robust Inference for Spanning Hypothesis of Bond Risk Premia with Highly Persistent Predictors, with Xiaosai Liao and Xinjue Li
 
 A Consistent Test for Stochastic Dominance Relations under Multi-way Clustering, with Yaqian Wu and Yu-Chin Hsu
 
@@ -46,7 +46,7 @@ Robust Bond Risk Premia Predictability Test in the Quantiles, with Xiaosai Liao 
 
 
 ### Publications (* indicate graduate student at time of publication)
-A Heteroskedasticity-Robust Overidentifying Restriction Test with High-Dimensional Covariates, with Ziwei Mei* and Zijian Guo, *Journal of Business & Economic Statistics*, open access article, forthcoming. Implementation codes on <a href="https://github.com/microfan1/PMtest"> GitHub </a> 
+A Heteroskedasticity-Robust Overidentifying Restriction Test with High-Dimensional Covariates, with Ziwei Mei* and Zijian Guo, *Journal of Business & Economic Statistics*, open access article, 2025, 43(2), 413-422. Implementation codes on <a href="https://github.com/microfan1/PMtest"> GitHub </a> 
 
 On the instrumental variable estimation with many weak and invalid instruments, with Yiqi Lin*, Frank Windmeijer and Xinyuan Song, _Journal of the Royal Statistical Society: Series B (Statistical Methodology)_, 86 (4), 2024, 1068–1088. Implementation codes on <a href="https://github.com/microfan1/WIT"> GitHub </a> 
 
