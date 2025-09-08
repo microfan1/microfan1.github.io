@@ -21,7 +21,7 @@ Full-time or part-time research assistant/fellow (both work in Hong Kong only). 
 ## Research
 My recent research interests mainly focus on econometric theory, with topics including causal inference with machine learning, and high dimensional portfolio theory. I also have some ongoing projects relating to applied econometrics, emphasizing machine learning and big data. Data and (Stata, R) codes for some of my articles can be found in my personal website.
 
-### Selected Working Papers
+### Working Papers
 Identification and Uniform Inference for Multiple Treatments with Possibly Invalid Instruments, with Ziwei Mei and Zijian Guo
 
 Single-index quantile factor model with observed characteristics, with Ruofan Xu
