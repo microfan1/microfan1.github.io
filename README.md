@@ -24,6 +24,8 @@ My recent research interests mainly focus on econometric theory, with topics inc
 ### Working Papers
 Identification and Uniform Inference for Multiple Treatments with Possibly Invalid Instruments, with Ziwei Mei and Zijian Guo
 
+Large portfolio formation with machine learning: a practitioner's guide, with Mehmet Caner
+
 Single-index quantile factor model with observed characteristics, with Ruofan Xu
 
 Cost-aware Portfolios in a Large Universe of Assets, with Marcelo C. Medeiros, Hanming Yang and Songshan Yang
