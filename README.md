@@ -36,7 +36,7 @@ Estimating Endogenous Ordinal Treatment Effects with High-Dimensional Instrument
 
 Inference for Nonlinear Endogenous Treatment Effects Accounting for High-Dimensional Covariate Complexity, with Zijian Guo,  Ziwei Mei, and Cun-Hui Zhang
 
-Navigating Complexity: Constrained Portfolio Analysis in High Dimensions with Tracking Error and Weight Constraints, with Mehmet Caner, Leheng Chen and Yingying Li 
+Navigating Complexity: Constrained Portfolio Analysis in High Dimensions with Tracking Error and Weight Constraints, with Mehmet Caner 
 
 Shocks-adaptive robust minimum variance portfolio for a large universe of assets, with Ruike Wu and Yanrong Yang
 
