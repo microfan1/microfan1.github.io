@@ -36,8 +36,6 @@ Estimating Endogenous Ordinal Treatment Effects with High-Dimensional Instrument
 
 Inference for Nonlinear Endogenous Treatment Effects Accounting for High-Dimensional Covariate Complexity, with Zijian Guo,  Ziwei Mei, and Cun-Hui Zhang
 
-Navigating Complexity: Constrained Portfolio Analysis in High Dimensions with Tracking Error and Weight Constraints, with Mehmet Caner 
-
 Shocks-adaptive robust minimum variance portfolio for a large universe of assets, with Ruike Wu and Yanrong Yang
 
 Robust Inference for Spanning Hypothesis of Bond Risk Premia with Highly Persistent Predictors, with Xiaosai Liao and Xinjue Li
@@ -48,6 +46,8 @@ Robust Bond Risk Premia Predictability Test in the Quantiles, with Xiaosai Liao 
 
 
 ### Publications (* indicate graduate student at time of publication)
+Portfolio Analysis in High Dimensions with Tracking Error and Weight Constraints, with Mehmet Caner, *Journal of American Statistical Association*, forthcoming. Implementation codes on <a href="https://github.com/microfan1/CROWN"> GitHub </a> 
+
 A Heteroskedasticity-Robust Overidentifying Restriction Test with High-Dimensional Covariates, with Ziwei Mei* and Zijian Guo, *Journal of Business & Economic Statistics*, open access article, 2025, 43(2), 413-422. Implementation codes on <a href="https://github.com/microfan1/PMtest"> GitHub </a> 
 
 On the instrumental variable estimation with many weak and invalid instruments, with Yiqi Lin*, Frank Windmeijer and Xinyuan Song, _Journal of the Royal Statistical Society: Series B (Statistical Methodology)_, 86 (4), 2024, 1068–1088. Implementation codes on <a href="https://github.com/microfan1/WIT"> GitHub </a> 
