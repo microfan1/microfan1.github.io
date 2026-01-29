@@ -24,6 +24,8 @@ My recent research interests mainly focus on econometric theory, with topics inc
 ### Working Papers
 Identification and Uniform Inference for Multiple Treatments with Possibly Invalid Instruments, with Ziwei Mei and Zijian Guo
 
+Modeling and Inference for High-dimensional Mediation Analysis with Endogeneity, with J. Liu, X. Zhang
+
 A Practitioner's Guide to AI+ML in Portfolio Investing, with Mehmet Caner
 
 Single-index quantile factor model with observed characteristics, with Ruofan Xu
@@ -43,6 +45,7 @@ Robust Inference for Spanning Hypothesis of Bond Risk Premia with Highly Persist
 A Consistent Test for Stochastic Dominance Relations under Multi-way Clustering, with Yaqian Wu and Yu-Chin Hsu
 
 Robust Bond Risk Premia Predictability Test in the Quantiles, with Xiaosai Liao and Xinjue Li
+
 
 
 ### Publications (* indicate graduate student at time of publication)
