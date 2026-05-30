@@ -26,8 +26,6 @@ Identification and Uniform Inference for Multiple Treatments with Possibly Inval
 
 Modeling and Inference for High-dimensional Mediation Analysis with Endogeneity, with J. Liu, X. Zhang
 
-A Practitioner's Guide to AI+ML in Portfolio Investing, with Mehmet Caner
-
 Single-index quantile factor model with observed characteristics, with Ruofan Xu
 
 Cost-aware Portfolios in a Large Universe of Assets, with Marcelo C. Medeiros, Hanming Yang and Songshan Yang
@@ -50,6 +48,8 @@ Robust Bond Risk Premia Predictability Test in the Quantiles, with Xiaosai Liao 
 
 ### Publications (* indicate graduate student at time of publication)
 Portfolio Analysis in High Dimensions with Tracking Error and Weight Constraints, with Mehmet Caner, *Journal of American Statistical Association*, forthcoming. Implementation codes on <a href="https://github.com/microfan1/CROWN"> GitHub </a> 
+
+A Practitioner's Guide to AI+ML in Portfolio Investing, with Mehmet Caner, *Econometric Reviews* (Practitioner’s Guide series review article),  forthcoming.
 
 A Heteroskedasticity-Robust Overidentifying Restriction Test with High-Dimensional Covariates, with Ziwei Mei* and Zijian Guo, *Journal of Business & Economic Statistics*, open access article, 2025, 43(2), 413-422. Implementation codes on <a href="https://github.com/microfan1/PMtest"> GitHub </a> 
 
