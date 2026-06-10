@@ -22,6 +22,8 @@ Full-time or part-time research assistant/fellow (both work in Hong Kong only). 
 My recent research interests mainly focus on econometric theory, with topics including causal inference with machine learning, and high dimensional portfolio theory. I also have some ongoing projects relating to applied econometrics, emphasizing machine learning and big data. Data and (Stata, R) codes for some of my articles can be found in my personal website.
 
 ### Working Papers
+Automatic Debiased Machine Learning for Nonseparable Triangular Models, with Ziwei Mei, Whitney Newey and Sami Stouli
+
 Identification and Uniform Inference for Multiple Treatments with Possibly Invalid Instruments, with Ziwei Mei and Zijian Guo
 
 Modeling and Inference for High-dimensional Mediation Analysis with Endogeneity, with J. Liu, X. Zhang
