@@ -1,99 +1,14 @@
-# Michael Qingliang Fan
-Michael Fan is an Associate Professor of Economics at the The Chinese University of Hong Kong. He is interested in both theoretical and applied econometrics, with a focus on micro-econometrics in a data-rich environment, and machine learning in finance. Some of his ongoing research projects relate to labor economics,  financial economics and decision science.
+# Michael Qingliang Fan — Academic Website
 
-### Contact
-Room 903, Esther Lee Building
+Source for [microfan1.github.io](https://microfan1.github.io/), the academic website of Michael Qingliang Fan, Associate Professor of Economics at The Chinese University of Hong Kong.
 
-Department of Economics
+## Site structure
 
-The Chinese University of Hong Kong
+- `index.html` — profile, research agenda, selected publications, all public GitHub repositories, and contact
+- `publications.html` — working papers and full journal publication list
+- `cv.html` — GitHub-hosted curriculum vitae using the content from the Personal website
+- `opportunities.html` — research assistant and fellow opportunities
+- `assets/css/site.css` — responsive visual system
+- `assets/js/site.js` — accessible mobile navigation
 
-Shatin, N.T., Hong Kong
-
-Tel: (852) 3943-8001
-
-Personal website: <a href="http://michaelqfan.weebly.com"> michaelqfan.weebly.com </a>
-
-### Hiring
-Full-time or part-time research assistant/fellow (both work in Hong Kong only). Get in contact (michaelqfan 'at' cuhk 'dot' edu 'dot' hk) if you are interested in academic careers. Please send a personal statement (emphasizing on past research experience and programming skills) and a writing sample. Preferred qualifications: Bachelor/post-graduate degree in Economics, Finance, Statistics, Computer Science, or other related subjects. Required qualifications: proficiency in at least one major statistical software, coursework in quantitative methods. Candidates whose research interests and expertise align with my ongoing research projects are welcome to apply. The successful applicant is expected to be a co-author of econometrics/statistics/machine learning publications and disseminate research findings at professional conferences.
-
-
-## Research
-My recent research interests mainly focus on econometric theory, with topics including causal inference with machine learning, and high dimensional portfolio theory. I also have some ongoing projects relating to applied econometrics, emphasizing machine learning and big data. Data and (Stata, R) codes for some of my articles can be found in my personal website.
-
-### Working Papers
-Automatic Debiased Machine Learning for Nonseparable Triangular Models, with Ziwei Mei, Whitney Newey and Sami Stouli
-
-Identification and Uniform Inference for Multiple Treatments with Possibly Invalid Instruments, with Ziwei Mei and Zijian Guo
-
-Modeling and Inference for High-dimensional Mediation Analysis with Endogeneity, with J. Liu, X. Zhang
-
-Single-index quantile factor model with observed characteristics, with Ruofan Xu
-
-Cost-aware Portfolios in a Large Universe of Assets, with Marcelo C. Medeiros, Hanming Yang and Songshan Yang
-
-Adaptive Multi-task Learning for Multi-sector Portfolio Optimization, with Ruike Wu and Yanrong Yang
-
-Estimating Endogenous Ordinal Treatment Effects with High-Dimensional Instruments and Covariates, with Yang Gao, Li Li, and Wei Zhong
-
-Inference for Nonlinear Endogenous Treatment Effects Accounting for High-Dimensional Covariate Complexity, with Zijian Guo,  Ziwei Mei, and Cun-Hui Zhang
-
-Shocks-adaptive robust minimum variance portfolio for a large universe of assets, with Ruike Wu and Yanrong Yang
-
-Robust Inference for Spanning Hypothesis of Bond Risk Premia with Highly Persistent Predictors, with Xiaosai Liao and Xinjue Li
-
-A Consistent Test for Stochastic Dominance Relations under Multi-way Clustering, with Yaqian Wu and Yu-Chin Hsu
-
-Robust Bond Risk Premia Predictability Test in the Quantiles, with Xiaosai Liao and Xinjue Li
-
-
-
-### Publications (* indicate graduate student at time of publication)
-Portfolio Analysis in High Dimensions with Tracking Error and Weight Constraints, with Mehmet Caner, *Journal of American Statistical Association*, forthcoming. Implementation codes on <a href="https://github.com/microfan1/CROWN"> GitHub </a> 
-
-A Practitioner's Guide to AI+ML in Portfolio Investing, with Mehmet Caner, *Econometric Reviews* (Practitioner’s Guide series review article),  forthcoming.
-
-A Heteroskedasticity-Robust Overidentifying Restriction Test with High-Dimensional Covariates, with Ziwei Mei* and Zijian Guo, *Journal of Business & Economic Statistics*, open access article, 2025, 43(2), 413-422. Implementation codes on <a href="https://github.com/microfan1/PMtest"> GitHub </a> 
-
-On the instrumental variable estimation with many weak and invalid instruments, with Yiqi Lin*, Frank Windmeijer and Xinyuan Song, _Journal of the Royal Statistical Society: Series B (Statistical Methodology)_, 86 (4), 2024, 1068–1088. Implementation codes on <a href="https://github.com/microfan1/WIT"> GitHub </a> 
-
-Fan Q., Wu, R.*, Yang, Y. and Zhong, W., (2024) "Time-varying minimum variance portfolio." _Journal of Econometrics_. An earlier version. Implementation codes on <a href="https://github.com/microfan1/TV-MVP"> GitHub </a>  
-
-Fan Q. and Wu Y.*, (2024) "Endogenous treatment effect estimation with a large and mixed set of instruments and control variables." _The Review of Economics and Statistics_, 106 (6): 1655–1674. Implementation codes on  <a href="https://github.com/microfan1/R2IVE"> GitHub </a>  
-
-Cai, X, Fan Q. and Yuan C.*, (2022) "The impact of only child peers on students' cognitive and non-cognitive outcomes", _Labour Economics_.  
-
-Fan Q., Hsu, Y.-C., Lieli, R. and Y. Zhang, (2022) "Estimation of Conditional Average Treatment Effects with High-Dimensional Data" , *Journal of Business & Economic Statistics*,  new <a href="https://cran.r-project.org/web/packages/hdcate/index.html"> R package hdcate (CRAN version) </a> provides implementations with general machine learning methods.
-
-CEO Early-Life Disaster Experience and Corporate Social Performance, with Don O'Sullivan and Leon Zolotoy, *Strategic Management Journal*, 2021.
-
-Zhong, W., Zhou, W*, Fan, Q. and Gao, Y.*, (2022) "Dummy Endogenous Treatment Effect Estimation Using High-Dimensional Instrumental Variables" (the <a href="https://cran.r-project.org/web/packages/naivereg/index.html"> R package naivereg (CRAN version) </a> implements the penalized logistic regression instrumental variables estimator (LIVE)), _The Canadian Journal of Statistics_.
-
-Chen, T., Fan Q., Liu, K. and Le, L.*, (2021) Identifying key factors in momentum in basketball games,  _Journal of Applied Statistics_.
-
-Chen, Y., Fan, Q., Yang, X. and L. Zolotoy, (2021) "CEO Early-Life Disaster Experience and Stock Price Crash Risk", *Journal of Corporate Finance*. 
-
-Caner M., Fan Q. and T. Grennes (2021) "Partners in debt: An endogenous non-linear analysis of the effects of public and private debt on growth", *International Review of Economics & Finance*.
-
-Liu K. and Fan Q., (2021) ​"Credit expansion, bank liberalization, and structural change in bank asset accounts", *Journal of Economic Dynamics and Control*.
-
-Zhong, W., Y. Gao*, W. Zhou* and Fan, Q., (2021)  "Endogenous Treatment Effect Estimation Using High-Dimensional Instruments and Double Selection" (the <a href="https://cran.r-project.org/web/packages/naivereg/index.html"> R package naivereg (CRAN version) </a> now includes DS-IV), _Statistics and Probability Letters_.
-
-Fan, Q., X. Han, G. Pan and B. Jiang, (2020) Large System of Seemingly Unrelated Regressions: A Penalized Quasi-Maximum Likelihood Estimation Perspective, *Econometric Theory*.
-
-Bao, X. and Fan, Q., (2020), The Impact of Temperature on Gaming Productivity: Evidence from Online Games, *Empirical Economics*.
-
-​Fan, Q. and Zhong, W., (2018), Nonparametric Additive Instrumental Variable Estimator: A Group Shrinkage Estimation Perspective, *Journal of Business & Economic Statistics*. The <a href="https://cran.r-project.org/web/packages/naivereg/index.html"> R package naivereg (CRAN version) </a> implements the method.
-
-​
-Fan, Q. and Wang, T.*, (2018), Game Day Effect on Stock Market: Evidence from Four Major Sports Leagues in U.S., _Journal of Behavioral and Experimental Finance_.
-
-Fan, Q. and W. Zhong, (2018), Variable Selection for Structural Equation with Endogeneity, *Journal of Systems Science and Complexity*.
-
-Chen, T. and Fan, Q., (2018), A Functional Data Analysis Approach to Model Score Difference in Professional Basketball Games, *Journal of Applied Statistics*.
-
-X. Fu, X. Zeng, X. Luo, D. Wang, D. Xu and Fan,Q., (2017), Designing an Intelligent Decision Support System for Effective Negotiation Pricing: A Systematic and Learning Approach, *Decision Support Systems*.
-
-​Fan, Q. and Wang, T.*, (2017), The Impact of Shanghai-Hong Kong Stock Connect Policy on A-H Share Price Premium, _Finance Research Letters_.
-
-Caner, M. and Fan, Q., (2015) , Hybrid GEL Estimators: Instrument Selection with Adaptive Lasso,  *Journal of Econometrics*. 
+The site is dependency-free and hosted with GitHub Pages. The [Personal website](https://michaelqfan.weebly.com/) remains linked as a separate resource.
